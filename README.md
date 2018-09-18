@@ -1,2 +1,2 @@
 # Polymorphism-Examples
-Polymorphism explanations for teaching
+Polymorphism explanations
